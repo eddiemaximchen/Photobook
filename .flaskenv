@@ -1,0 +1,2 @@
+FLASK_APP=photobook
+FLASK_ENV=development
